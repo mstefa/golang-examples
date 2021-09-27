@@ -1,4 +1,4 @@
-module github.com/CodelyTV/golang-examples
+module github.com/mstefa/golang-examples
 
 go 1.12
 
